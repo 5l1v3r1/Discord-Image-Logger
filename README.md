@@ -1,5 +1,5 @@
 # Discord-Image-Logger
-A python logger you can use to log anyone with a image. It also logs the ip just from the Image.
+A python logger you can use to log anyone with a image. It also logs the ip just from the Image. (educational purposes only)
 
 
 # HowToUse
